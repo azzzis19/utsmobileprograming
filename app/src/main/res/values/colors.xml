@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="blue">#0D47A1</color> <!-- Warna biru -->
+    <color name="dark_blue">#002171</color> <!-- Warna biru tua -->
+    <color name="light_blue">#64B5F6</color> <!-- Warna biru muda -->
+    <color name="darker_blue">#003c8f</color> <!-- Warna biru gelap -->
+    <color name="accent_blue">#1976D2</color> <!-- Warna biru untuk aksen -->
+    <color name="white">#FFFFFF</color> <!-- Warna putih -->
+</resources>
